@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thezenlabs.com/categories/</loc>
+    <loc>https://thezenlabs.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thezenlabs.com/tags/</loc>
+    <loc>https://thezenlabs.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thezenlabs.com/</loc>
+    <loc>https://thezenlabs.github.io/</loc>
     <priority>0</priority>
   </url>
   
