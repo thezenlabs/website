@@ -184,14 +184,33 @@ googleAnalytics = ""
       livesIn = ""
       scope = [
         "12 years as full stack developer",
+        "Developed smart contract for Luna which raised 12M$.",
         "Ex CTO & Co-Founder & Blinq.",
-        "Developed smart contract for Luna which raised 12M$."
+        "Lead tech for Taykey (acquired by Innovid)"
       ]
       # For bio markdown and even multiline strings are available.
       bio = ""
       social = [
         ["fa-linkedin", "https://linkedin.com/in/galbracha/"],
         ["fa-github", "https://github.com/rootux"]
+      ]
+
+    [[params.team.members]]
+      img = "2.jpg"
+      name = "Elisha Eshed"
+      position = "Blockchain Expert"
+      reportsTo = ""
+      livesIn = ""
+      scope = [
+        "14 years in software development and research",
+        "Ex Head of Research at Skycure (acquired by Symantec)",
+        "10 years in cyber security"
+      ]
+      # For bio markdown and even multiline strings are available.
+      bio = ""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/elisha-eshed/"],
+        ["fa-github", "https://github.com/sh0oki"]
       ]
 
   # Client section
