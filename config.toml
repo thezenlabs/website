@@ -49,7 +49,7 @@ googleAnalytics = ""
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Services"
-    portfolio = "Portfolio"
+    portfolio = "Our Clients"
     about = "About"
     team = "Team"
     contact = "Contact"
@@ -71,7 +71,6 @@ googleAnalytics = ""
     # the 'static/img' folder.
     title = "The Zen Labs"
     subtitle = "Your blockchain professionals"
-    buttonText = "Tell me more"
 
 
   # Services section
@@ -288,9 +287,9 @@ googleAnalytics = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Built using Hugo"
+    copyright = "Built by thezenlabs using Hugo"
 
     [[params.footer.social]]
       icon = "fa-medium"
-      link = "#"
+      link = "https://medium.com/thezenlabs"
       title = "Medium"

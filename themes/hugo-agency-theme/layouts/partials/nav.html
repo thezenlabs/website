@@ -65,6 +65,11 @@
           </li>
         {{ end }}
 
+
+        {{ range .Site.Params.footer.social }}
+          <li><a href="{{ .link }}" title="{{ .title }}"><i class="fa {{ .icon }}"></i></a></li>
+        {{ end }}
+
         {{ range .Site.Menus.postpend }}
           <li>
             <a href="{{ .URL }}">{{ .Name }}</a>
