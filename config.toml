@@ -212,6 +212,23 @@ googleAnalytics = ""
         ["fa-github", "https://github.com/sh0oki"]
       ]
 
+     [[params.team.members]]
+       img = "3.jpg"
+       name = "Or Granot"
+       position = "Marketing"
+       reportsTo = ""
+       livesIn = ""
+       scope = [
+         "Advisor for different blockchain technologies",
+         "Has a rich events & conference production experience",
+         "M.sc from BGU"
+       ]
+       # For bio markdown and even multiline strings are available.
+       bio = ""
+       social = [
+
+       ]
+
   # Client section
     [params.clients_list]
       enable = true
