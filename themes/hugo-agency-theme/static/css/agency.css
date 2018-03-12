@@ -964,12 +964,8 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
-#particles-js {
+#particles-wrapper > canvas {
     position: absolute;
-}
-
-.particles-js-canvas-el {
-    height: 100vmax !important;
-    width: 100vmax !important;
-    z-index: 0;
+    top: 0;
+    left: 0;
 }

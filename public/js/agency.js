@@ -69,18 +69,9 @@ $.validate({
 
 
 window.onload = function() {
-    /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-    particlesJS.load('particles-js', 'assets/particles.json', function () {
 
-    })
 }
 
 $(document).ready(function (){
 
-
-    // A bug on particles require this call. TODO: switch to Photon Particles Library
-    // window.dispatchEvent(new Event('resize'));
-    // window.dispatchEvent(new Event('resize'));
-    // window.dispatchEvent(new Event('resize'));
-    // window.dispatchEvent(new Event('resize'));
 })

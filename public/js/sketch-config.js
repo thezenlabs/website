@@ -9,13 +9,13 @@
 
     try {
         gl = Sketch.create({
-            container: document.getElementById('container'),
+            container: document.getElementById('particles-wrapper'),
             type: Sketch.WEB_GL,
             brightness: 0.8,
             blobiness: 1.5,
             particles: 40,
             energy: 1.01,
-            scanlines: true
+            scanlines: false
         });
     } catch (_error) {
         error = _error;
