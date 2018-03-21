@@ -1,5 +1,5 @@
 # TheZenLabs
-build with `hugu`
+build with `hugo`
 then navigate to `public` and `git push`
 
 # dev
