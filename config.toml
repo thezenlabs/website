@@ -82,6 +82,12 @@ googleAnalytics = ""
     [[params.services.row]]
 
     [[params.services.row.list]]
+      icon = "fa-sitemap"
+      title = "Referral Telegram Bot"
+      description = "Create a referral bot.<br><b>Increase your community by 10X</b><br>Get more Telegram followers.<br>Create your own Telegram <b>referral bot</b>"
+      url = "#"
+
+    [[params.services.row.list]]
       icon = "fa-users"
       title = "Crowdsale"
       description = "Let us take care of your crowdsale.<br>Choose from a list of existing crowdsale templates - KYC, Multi-Level. We use standard contracts developed on <b>Solidity</b> for <b>Ethereum</b>, <b>QTUM</b>"
@@ -93,22 +99,10 @@ googleAnalytics = ""
       description = "Select your <b>crowdsale portal</b>.<br>We create the portal website that connects to the smart contract<br>Allowing you to see in real time the campaign goals"
       url = "#"
 
-    [[params.services.row.list]]
-      icon = "fa-sitemap"
-      title = "Referral program"
-      description = "Create a referral program.<br><b>More people using your token</b><br>More buzz about your product<br>More investors<br>Get more Telegram followers.<br>Create your own Telegram <b>airdrop bot</b>"
-      url = "#"
-
      [[params.services.row.list]]
        icon = "fa-code"
        title = "Smart contract"
        description = "We can build your <b>ERC20 token contract</b>"
-       url = "#"
-
-     [[params.services.row.list]]
-       icon = "fa-child"
-       title = "Airdrop service"
-       description = "Let us handle your airdrop service. Getting more people using your tokens."
        url = "#"
 
   # Portfolio section
@@ -244,10 +238,14 @@ googleAnalytics = ""
         logo = "luna.png"
         link = "https://meetluna.com"
 
+      [[params.clients]]
+        logo = "zeex.png"
+        link = "https://zeex.me"
+
   # Contact section
   [params.contact]
     enable = true
-    title = "Let us evaluate your business requirements. Absolutely FREE!"
+    title = "Contact us"
     subtitle  = "Our experts will give you clarity"
     buttonText = "Send message"
 
