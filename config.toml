@@ -246,6 +246,10 @@ googleAnalytics = ""
         logo = "wemark.png"
         link = "https://www.wemark.com/"
 
+      [[params.clients]]
+        logo = "barrel.png"
+        link = "https://www.barrel.network/"
+
   # Contact section
   [params.contact]
     enable = true
