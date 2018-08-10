@@ -84,7 +84,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-sitemap"
       title = "Referral Telegram Bot"
-      description = "Create a referral bot.<br><b>Increase your community by 10X</b><br>Get more Telegram followers.<br>Create your own Telegram <b>referral bot</b>"
+      description = "Create a telegram referral bot.<br><b>Increase your community by 10X</b><br>Get more Telegram followers. Get more Twitter followers. Get more Facebook Followers."
       url = "#"
 
     [[params.services.row.list]]
