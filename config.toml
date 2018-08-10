@@ -243,6 +243,10 @@ googleAnalytics = ""
         link = "https://zeex.me"
 
       [[params.clients]]
+        logo = "zinc.png"
+        link = "https://zinc.co"
+
+      [[params.clients]]
         logo = "wemark.png"
         link = "https://www.wemark.com/"
 
