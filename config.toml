@@ -164,9 +164,9 @@ googleAnalytics = ""
     #center = true
     title = "Our amazing team"
     subtitle = ""
-    description = "Let our blockchain professionals set you up"
+    description = ""
 
-    # All team member's pictures are stored under 'static/img/team'.
+    # All team member's pictures are stored under 'server/img/team' and themese/hugo-agency/theme/static/img/team.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
@@ -222,6 +222,20 @@ googleAnalytics = ""
        social = [
 
        ]
+
+    [[params.team.members]]
+      img = "4.jpg"
+      name = "Rome Magen"
+      position = "CMO"
+      reportsTo = ""
+      livesIn = ""
+      scope = [
+	"Co-Founder and head of Costumer Relations at DoGood, Product Manager at CDI-Negev, Bachelor from BGU"
+      ]
+      # For bio markdown and even multiline strings are available.
+      bio = ""
+      social = [
+      ]
 
   # Client section
     [params.clients_list]
