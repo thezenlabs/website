@@ -82,6 +82,12 @@ googleAnalytics = ""
     [[params.services.row]]
 
     [[params.services.row.list]]
+      icon = "fa-user-circle"
+      title = "STO Platform"
+      description = "Allow your investors to sign up, performs a <b>KYC</b>, and distribute the funds using a <b>ST20</b> back smart contracts"
+      url = "#"
+
+    [[params.services.row.list]]
       icon = "fa-sitemap"
       title = "Referral Telegram Bot"
       description = "Create a telegram referral bot.<br><b>Increase your community by 10X</b><br>Get more Telegram followers. Get more Twitter followers. Get more Facebook Followers."
@@ -102,7 +108,7 @@ googleAnalytics = ""
      [[params.services.row.list]]
        icon = "fa-code"
        title = "Smart contract"
-       description = "We can build your <b>ERC20 token contract</b>"
+       description = "Customize and issue <b>ST20 & ERC20 token contract</b>"
        url = "#"
 
   # Portfolio section
@@ -176,10 +182,11 @@ googleAnalytics = ""
       reportsTo = ""
       livesIn = ""
       scope = [
-        "12 years as full stack developer",
-        "Developed smart contract for Luna which raised 12M$.",
+        "13 years as full stack developer",
         "Ex CTO & Co-Founder & Blinq.",
-        "Lead tech for Taykey (acquired by Innovid)"
+        "Lead tech for Taykey (acquired by Innovid)",
+        "Developed a backend engine that communicates with the blockchain and stores users digital assets in a secure way.",
+        "Active Openzepplin contributor."
       ]
       # For bio markdown and even multiline strings are available.
       bio = ""
