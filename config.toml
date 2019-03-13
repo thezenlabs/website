@@ -70,7 +70,7 @@ googleAnalytics = ""
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "The Zen Labs"
-    subtitle = "Your blockchain professionals"
+    subtitle = "Your team of software experts"
 
 
   # Services section
@@ -178,7 +178,7 @@ googleAnalytics = ""
     [[params.team.members]]
       img = "1.jpg"
       name = "Gal Bracha"
-      position = "Blockchain Expert"
+      position = "Software Expert"
       reportsTo = ""
       livesIn = ""
       scope = [
@@ -198,7 +198,7 @@ googleAnalytics = ""
     [[params.team.members]]
       img = "2.jpg"
       name = "Elisha Eshed"
-      position = "Blockchain Expert"
+      position = "Software Expert"
       reportsTo = ""
       livesIn = ""
       scope = [
@@ -216,12 +216,11 @@ googleAnalytics = ""
      [[params.team.members]]
        img = "3.jpg"
        name = "Or Granot"
-       position = "Marketing"
+       position = "Data Scientist"
        reportsTo = ""
        livesIn = ""
        scope = [
          "Advisor for different blockchain technologies",
-         "Has a rich events & conference production experience",
          "M.sc from BGU"
        ]
        # For bio markdown and even multiline strings are available.
