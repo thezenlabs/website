@@ -18,7 +18,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "The Zen Labs"
-  description = "Your blockchain professionals"
+  description = "Your team of software experts"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -83,32 +83,32 @@ googleAnalytics = ""
 
     [[params.services.row.list]]
       icon = "fa-user-circle"
-      title = "STO Platform"
-      description = "Allow your investors to sign up, performs a <b>KYC</b>, and distribute the funds using a <b>ST20</b> back smart contracts"
+      title = "Professionals at your reach"
+      description = "Our team is made of highly trained professionals. We have a full team of go-to guys when it comes to software solutions"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-sitemap"
-      title = "Referral Telegram Bot"
-      description = "Create a telegram referral bot.<br><b>Increase your community by 10X</b><br>Get more Telegram followers. Get more Twitter followers. Get more Facebook Followers."
+      title = "Software services"
+      description = "Whether its a small project or a long term project. We can help"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-users"
-      title = "Crowdsale"
-      description = "Let us take care of your crowdsale.<br>Choose from a list of existing crowdsale templates - KYC, Multi-Level. We use standard contracts developed on <b>Solidity</b> for <b>Ethereum</b>, <b>QTUM</b>"
+      title = "SDD"
+      description = "We love taking ideas and crafting a software design document out of it - this document can be set as the technical jumping board to your product - 10 pages or 100 pages - we can help"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
-      title = "Crowdsale Portal"
-      description = "Select your <b>crowdsale portal</b>.<br>We create the portal website that connects to the smart contract<br>Allowing you to see in real time the campaign goals"
+      title = "Team building"
+      description = "Looking for a team of professionals? We can help you build your team? Want us to help you manage them? We can do that also"
       url = "#"
 
      [[params.services.row.list]]
        icon = "fa-code"
-       title = "Smart contract"
-       description = "Customize and issue <b>ST20 & ERC20 token contract</b>"
+       title = "Choosing stack"
+       description = "React? Django? React Native? iOS? Android? We can help"
        url = "#"
 
   # Portfolio section
@@ -183,10 +183,10 @@ googleAnalytics = ""
       livesIn = ""
       scope = [
         "13 years as full stack developer",
-        "Ex CTO & Co-Founder & Blinq.",
+        "Ex CTO & Co-Founder & Blinq & Headbox.",
         "Lead tech for Taykey (acquired by Innovid)",
-        "Developed a backend engine that communicates with the blockchain and stores users digital assets in a secure way.",
-        "Active Openzepplin contributor."
+        "Ex Top Israel Intelligence Unit",
+        "Active open source contributor."
       ]
       # For bio markdown and even multiline strings are available.
       bio = ""
