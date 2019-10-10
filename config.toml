@@ -18,7 +18,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "The Zen Labs"
-  description = "Your team of software experts"
+  description = "Helping Positive impact businesses to go from idea to a working product"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -70,7 +70,7 @@ googleAnalytics = ""
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "The Zen Labs"
-    subtitle = "Your team of software experts"
+    subtitle = "Helping <em>Positive impact</em> businesses to go from <em>idea</em> to a working <em>product</em>"
 
 
   # Services section

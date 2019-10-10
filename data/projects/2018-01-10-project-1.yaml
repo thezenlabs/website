@@ -6,5 +6,5 @@ youtubeVideo: "https://www.youtube.com/watch?v=UG5iaalviZ4"
 preview: luna.png
 client: Luna
 clientLink: "http://meetluna.com"
-category: Crafting the MVP
-description: "Weve help build Luna tech stack, and developed Luna smart contract that is now holding <b>40M$ worth of ERC20 tokens</b>. The tokens was deployed on QTUM as we worked closely with the QTUM team.<br> We also developed a fully operational python server that <b>communicates with the deployed smart contracts</b> to allow users to create bids and to transfer money from different user wallets."
+category: Crafting MVP
+description: "Weve help build Luna tech stack, and developed Luna smart contract. The tokens was deployed on QTUM as we worked closely with the QTUM team.<br> We also developed a fully operational python server that <b>communicates with the deployed smart contracts</b> to allow users to create bids and to transfer money from different user wallets."
